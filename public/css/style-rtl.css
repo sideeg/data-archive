@@ -1,0 +1,66 @@
+body {
+    direction: rtl;
+}
+.normal_add .btn-h1-spacing {
+   
+    /* padding: 10px; */
+    /* margin: 18px 0 0 120px; */
+    position: absolute;
+    left: 30px;
+}
+
+.navbar-header.float-right {
+    float: right;
+}
+
+.navbar-nav {
+    display: flex;
+    float: right;
+}
+
+.navbar-right {
+    float: left!important;
+    margin-left: -15px;
+}
+
+.navbar-right .dropdown-menu {
+    right: auto;
+    left: 0;
+    text-align: start;
+}
+
+.col-md-9.table_title {
+    position: relative;
+    left: 25%;
+}
+
+
+
+.col-md-1.normal_add {
+    position: absolute;
+    left: 6%;
+    right: auto;
+}
+
+.col-md-1.exl_add {
+    position: absolute;
+    left: 16%;
+    top: 10.7%;
+    right: auto;
+}
+
+.table {
+    text-align: end;
+}
+
+tbody.text-dir {
+    direction: initial;
+}
+
+.pull-right {
+    float: left!important;
+}
+
+.to-right{
+    float: right;
+}
